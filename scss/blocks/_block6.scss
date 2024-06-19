@@ -1,0 +1,34 @@
+.block6_all {
+    display: inline-flex;
+    position: relative;
+    margin-top: -0.2vw;
+}
+.block6_all_rectangle {
+    width: 45vw;
+    height: 40vw;
+    margin-left: 50vw;
+}
+.block6_all_kettle {
+    width: 42vw;
+    height: 55vw;
+    margin-left: -52vw;
+    margin-top: -15vw;
+}
+.block6_all_text1 {
+    position: absolute;
+    font-family: "HelveticaNeueCyr Bold";
+    font-size: 3.1vw;
+    color: black;
+    margin-top: 12vw;
+    margin-left: 12vw;
+    letter-spacing: -6px;
+}
+.block6_all_text2 {
+    position: absolute;
+    font-family: "HelveticaNeueCyr Medium";
+    font-size: 0.9vw;
+    color: black;
+    margin-top: 19vw;
+    margin-left: 12vw;
+    margin-right: 50vw;
+}

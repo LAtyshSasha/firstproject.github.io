@@ -1,0 +1,42 @@
+@import "./blocks/header.scss";
+@import "./blocks/block1.scss";
+@import "./blocks/block2.scss";
+@import "./blocks/block3.scss";
+@import "./blocks/block4.scss";
+@import "./blocks/block5.scss";
+@import "./blocks/block6.scss";
+@import "./blocks/block7.scss";
+
+@font-face {
+    font-family: "HelveticaNeueCyr Bold";
+    src: local("HelveticaNeueCyr Bold"),
+    local("HelveticaNeueCyr-Bold"),
+    url("fonts/HelveticaNeueCyr-Bold.woff") format("woff");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "HelveticaNeueCyr Medium";
+    src: local("HelveticaNeueCyr Medium"),
+    local("HelveticaNeueCyr-Medium"),
+    url("fonts/HelveticaNeueCyr-Medium.woff") format("woff");
+    font-weight: medium;
+}
+@font-face {
+    font-family: "HelveticaNeueCyr Thin";
+    src: local("HelveticaNeueCyr Thin"),
+    local("HelveticaNeueCyr-Thin"),
+    url("fonts/HelveticaNeueCyr-Thin.woff") format("woff");
+    font-weight: thin;
+}
+@font-face {
+    font-family: "HelveticaNeueCyr UltraLight";
+    src: local("HelveticaNeueCyr UltraLight"),
+    local("HelveticaNeueCyr-UltraLight"),
+    url("fonts/HelveticaNeueCyr-UltraLight.woff") format("woff");
+    font-weight: light;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}

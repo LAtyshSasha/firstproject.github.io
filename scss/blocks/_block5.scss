@@ -1,0 +1,40 @@
+.block5_all {
+    display: inline-flex;
+    position: relative;
+    margin-left: 5vw;
+    margin-top: 213vw;
+}
+.block5_all_rectangle {
+    width: 45vw;
+    height: 53vw;
+}
+.block5_all_kettle {
+    margin-left: -40vw;
+    height: 48vw;
+}
+.block5_all_text1 {
+    position: absolute;
+    font-family: "HelveticaNeueCyr Bold";
+    font-size: 3.1vw;
+    color: black;
+    margin-top: 10vw;
+    margin-left: 50vw;
+    margin-right: -100vw;
+    letter-spacing: -6px;
+}
+.block5_all_text2 {
+    position: absolute;
+    font-family: "HelveticaNeueCyr Medium";
+    font-size: 0.9vw;
+    color: black;
+    margin-top: 16vw;
+    margin-left: 50vw;
+    margin-right: -27vw;
+}
+.block5_all_circle {
+    position: absolute;
+    margin-top: 40vw;
+    width: 15vw;
+    height: 22vw;
+    margin-left: -5vw;
+}

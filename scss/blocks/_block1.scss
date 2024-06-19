@@ -1,0 +1,52 @@
+.block1_all {
+    display: inline-flex;
+    position: relative;
+    margin-left: 25vw;
+}
+.block1_all_rectangle {
+    position: absolute;
+    width: 75vw;
+    height: 41vw;
+}
+.block1_all_water {
+    position: absolute;
+    width: 50vw;
+    height: 50vw;
+    margin-left: -25vw;
+    margin-top: 9vw;
+}
+.block1_all_kettle {
+    position: absolute;
+    width: 30vw;
+    height: 44vw;
+    margin-left: -15vw;
+    margin-top: 7vw;
+}
+.block1_all_text1, .block1_all_text2 {
+    font-family: "HelveticaNeueCyr UltraLight";
+    position: absolute;
+    font-size: 2.5vw;
+    color: white;
+}
+.block1_all_text1 {
+    margin-right: -60.5vw;
+    margin-left: 26vw;
+    margin-top: 11vw;
+}
+.block1_all_text2 {
+    margin-right: -60.5vw;
+    margin-left: 26vw;
+    margin-top: 24vw;
+}
+
+.doublelogo_img {
+    display: inline-flex;
+    position: relative;
+    margin-left: 45vw;
+}
+.doublelogo_img_dublogo {
+    position: absolute;
+    width: 50vw;
+    height: 4.3vw;
+    margin-top: 46vw;
+}
